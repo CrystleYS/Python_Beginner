@@ -1,4 +1,4 @@
-L9: Building LLM prompts with variables
+***L9: Building LLM prompts with variables***
 In the next cell, you will import the function print_llm_response that uses an LLM with an instruction that you provide as a string and displays the result.
 
 Download helper_function.py
